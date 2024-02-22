@@ -180,7 +180,6 @@ void main() {
 `
 
 var texture = THREE.ImageUtils.loadTexture('elon-texture.jpg')
-//var texture = THREE.ImageUtils.loadTexture('0xb3b8d352edef56199710746f00dc30e04bcc95d269e56231e3f1933d942f7cae.png')
 
 var material = new THREE.ShaderMaterial({
   uniforms: {
